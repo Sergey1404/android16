@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomNavigationApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="color">Цвет</string>
+    <string name="photos">Фото</string>
+    <string name="text">Текст</string>
+    <string name="red">Красный</string>
+    <string name="white">Белый</string>
+    <string name="cat">Кот</string>
+    <string name="dog">Собака</string>
+</resources>
